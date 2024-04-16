@@ -3,7 +3,7 @@
 
 - [What is OpenGitOps?](https://opengitops.dev/)
 - [Sealed Secrets](https://bitnami.com/stack/sealed-secrets/helm)
-
+- [App of App concept](https://github.com/gnunn-gitops/argocd-app-of-app-chart)
 
 ## 
 
@@ -13,3 +13,5 @@
   - Update approval: Automatic
   - Console plugin: Enable
 2. 
+
+
